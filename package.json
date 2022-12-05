@@ -2,7 +2,7 @@
   "name": "@brianbrady/fluentui-theme-generator",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "compilerOptions": {
     "esModuleInterop": true
   },
@@ -28,6 +28,6 @@
     "typescript": "^4.8.4"
   },
   "files": [
-      "./dist/*"
+    "./dist/*"
   ]
 }
